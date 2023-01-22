@@ -6,7 +6,7 @@
 #   weight: 5
 
 - name: AWS
-  weight: 6
+  weight: 8
 
 - name: Azure
   weight: 4
@@ -21,7 +21,7 @@
   weight: 4
 
 - name: Terraform
-  weight: 3
+  weight: 4
 
 - name: postgres
   weight: 2  

@@ -32,9 +32,9 @@ twitter_username:
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: About Me
+about_me_title: About
 # about_me_description: This will be displayed under the title.
-about_me_description: If you've landed here, you've probably been recommended by someone who knows the service we provide. <br/><br/> Working with technology for 20 years, we focus on transforming ideas into technological solutions in line with the present.<br/><br/>Don't expect wild ideas from us. <br/><br/>The innovative idea for a product comes from you. <br/><br/>We will enable your idea into something technically viable, scalable and ready for today.<br/><br/>We believe in big ideas - no room for "this won't work".
+about_me_description: At dhdtech.io, I have been providing IT Training and Consultancy for over 20 years, My expertise lies in Cloud computing, Software Architecture, IAC, Microservice Architecture, Python API Development, OpenAPI 3, and openAI technologies. As a one-person team, I am dedicated to keeping my clients ahead of the curve in an ever-changing technological landscape. I take pride in the relationships I have built over the years and am committed to delivering the highest quality services. Join me on my journey of empowering individuals and organizations with the knowledge and skills they need to succeed in the digital age.
 
 
 # SKILLS SECTION
